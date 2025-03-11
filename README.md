@@ -4,6 +4,7 @@ Node modules are does not available in this code.<br/>
 Open terminal and run these commands:<br/>
 <ul>
     <li>npm install</li>
+    or
     <li>npm i</li>
 </ul>
 
