@@ -1,3 +1,12 @@
+## Node_Modules
+
+Node modules are does not available in this code.<br/>
+Open terminal and run these commands:<br/>
+<ul>
+    <li>npm install</li>
+    <li>npm i</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
